@@ -10,7 +10,4 @@ module.exports = {
     config.resolve.modules.push(__dirname);
     return config;
   },
-  images: {
-    domains: ["www.gannett-cdn.com"],
-  },
 };
